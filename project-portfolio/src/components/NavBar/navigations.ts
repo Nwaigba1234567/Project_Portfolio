@@ -1,27 +1,30 @@
-const listItems = [
+ const listItems = [
     {
       name:'home',
       url:'/'
     },
     {
       name:'about',
-      url:'/'
+      url:'/about'
     },
     {
       name:'services',
-      url:'/'
+      url:'/services'
     },
     {
       name:'application',
-      url:'/'
+      url:'/application'
     },
     {
       name:'contact',
-      url:'/'
+      url:'/contact'
     },
     {
       name:'search',
-      url:'/'
+      url:'/search'
     },
     
   ]
+
+  export default listItems
+ 

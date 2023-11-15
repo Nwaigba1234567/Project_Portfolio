@@ -13,7 +13,7 @@ these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-https://github.com/Nwaigba66/Edusoft-website---FrontEnd.git
+https://github.com/Nwaigba1234567/Project_Portfolio.git
 ```
 
 2. Open the cloned folder in your preferred code editor, install the required
